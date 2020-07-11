@@ -13,6 +13,7 @@ void isZoo(string str)
 	}
 	if(z_count*2 == o_count)
 		cout<<"Yes";
+    
 	else
 		cout<<"No";
 }
